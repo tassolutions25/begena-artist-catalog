@@ -50,7 +50,7 @@
           "title": "ይበላሃላ",
           "lyrics_asset_file": "assets/data/lyrics/demse/9.json"
         },
-                {
+        {
           "id": "10",
           "title": "ዋ...እኔን",
           "lyrics_asset_file": "assets/data/lyrics/demse/10.json"
@@ -166,9 +166,9 @@
           "id": "21",
           "title": "ኪዳነ ምህረት",
           "lyrics_asset_file": "assets/lyrics/zerfu/21.json"
-        },
+        }
       ]
-    }
+    },
     {
       "id": "3",
       "name": "መጋቤ ስብሐት ዓለሙ አጋ",
@@ -268,9 +268,9 @@
           "id": "19",
           "title": "የበገና አካላት",
           "lyrics_asset_file": "assets/lyrics/alemu/19.json"
-        },
+        }
       ]
-    }
+    },
     {
       "id": "4",
       "name": "አቶ ታፈሰ ተስፋዬ",
@@ -345,9 +345,9 @@
           "id": "14",
           "title": "ከደጇ ይፈልቃል",
           "lyrics_asset_file": "assets/lyrics/tafese/14.json"
-        },
+        }
       ]
-    }
+    },
     {
       "id": "5",
       "name": "ሊቀ መዘምራን ይልማ ኃይሉ",
@@ -447,9 +447,9 @@
           "id": "19",
           "title": "ኪርያላይሶን",
           "lyrics_asset_file": "assets/lyrics/yilma/19.json"
-        },
+        }
       ]
-    }
+    },
     {
       "id": "6",
       "name": "ሊቀ ልሳናት መምህር ሲሳይ ደምሴ",
@@ -499,9 +499,9 @@
           "id": "9",
           "title": "ዋ እኔን",
           "lyrics_asset_file": "assets/lyrics/sisay/9.json"
-        },
+        }
       ]
-    }
+    },
     {
       "id": "7",
       "name": "ዘማሪ ዲያቆን አቤል ተስፋዬ",
@@ -711,9 +711,9 @@
           "id": "41",
           "title": "ላሐ ማርያም",
           "lyrics_asset_file": "assets/lyrics/abel/41.json"
-        },
+        }
       ]
-    }
+    },
     {
       "id": "8",
       "name": "ዘማሪት ሶስና ገብረኢየሱስ",
@@ -778,9 +778,9 @@
           "id": "12",
           "title": "አንገቴን አልሰብርም",
           "lyrics_asset_file": "assets/lyrics/sosna/12.json"
-        },
+        }
       ]
-    }
+    },
     {
       "id": "9",
       "name": "ዘማሪት የትምወርቅ ሙላት",
@@ -845,9 +845,9 @@
           "id": "12",
           "title": "ከምንጭ ውሃ",
           "lyrics_asset_file": "assets/lyrics/yetm/12.json"
-        },
+        }
       ]
-    }
+    },
     {
       "id": "10",
       "name": "አለቃ ተሰማ ወልደ አማኑኤል",
@@ -927,9 +927,9 @@
           "id": "15",
           "title": "ቀን የጣለ እንደሆን",
           "lyrics_asset_file": "assets/lyrics/tessema/15.json"
-        },
+        }
       ]
-    }
+    },
     {
       "id": "11",
       "name": "ዘማሪ ዘውዱ ጌታቸው",
@@ -974,9 +974,9 @@
           "id": "8",
           "title": "አስተርዮ ኮነ",
           "lyrics_asset_file": "assets/lyrics/zewdu/8.json"
-        },
+        }
       ]
-    }
+    },
     {
       "id": "12",
       "name": "ዘማሪ ዓለማየሁ ፋንታ",
@@ -1036,9 +1036,9 @@
           "id": "11",
           "title": "ይስሐቅ በኩር ልጁን",
           "lyrics_asset_file": "assets/lyrics/alemayehu/11.json"
-        },
+        }
       ]
-    }
+    },
     {
       "id": "13",
       "name": "ዲያቆን ታደለ ገዲፍ",
@@ -1233,7 +1233,7 @@
           "id": "38",
           "title": "ባሕር ብሻገርም 2",
           "lyrics_asset_file": "assets/lyrics/tadele/38.json"
-        },
+        }
       ]
     }
   ]
