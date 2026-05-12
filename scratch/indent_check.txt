@@ -1,0 +1,100 @@
+Para 0: LeftIndent=None, LeadingSpaces=0, Text=ጻድቅኢትዮጵያ
+Para 1: LeftIndent=None, LeadingSpaces=0, Text=
+Para 2: LeftIndent=None, LeadingSpaces=0, Text=ጻድቅ ኢትዮጵያ/፪/ ታውቋል እምነትሽ
+Para 3: LeftIndent=None, LeadingSpaces=0, Text=የዳዊት ዘር ድጋም ሆኗል ጽሎትሽ
+Para 4: LeftIndent=None, LeadingSpaces=0, Text=ኢትዮጵያ ብፅዕት/፪/ ጸሎት ያርግልሻል
+Para 5: LeftIndent=None, LeadingSpaces=0, Text=እየደረሰልሽ ይኸው ያሳይሻል
+Para 6: LeftIndent=None, LeadingSpaces=0, Text=በተገለጸልኝ /፪/ በደረስኩት ትንቢት
+Para 7: LeftIndent=None, LeadingSpaces=0, Text=እኔን ተመርኩዘሽ ትደግሚያለሽ ዳዊት
+Para 8: LeftIndent=None, LeadingSpaces=0, Text=መንፈሳዊ ምሥጢር/፪/ በገጽ ታስሮብን
+Para 9: LeftIndent=None, LeadingSpaces=0, Text=ቀዳማዊ ንጉሥ ተርጉሞ ፈታልን
+Para 10: LeftIndent=None, LeadingSpaces=0, Text=ሰው ምሥጢርን ሳያውቅ/፪/ እንደዚሁ እንዳይሞት
+Para 11: LeftIndent=None, LeadingSpaces=0, Text=አትሙት እያለ እውቀት ገለጸለት
+Para 12: LeftIndent=None, LeadingSpaces=0, Text=ኢትዮጵያ ፈጭታ/፪/ የሽሮ ስጧን
+Para 13: LeftIndent=None, LeadingSpaces=0, Text=በማይጨው ሰርታለች አጣፍጣ ወጧን 
+Para 14: LeftIndent=None, LeadingSpaces=0, Text=እናት በሞያዋ/፪/ ምስጉን የታደለች
+Para 15: LeftIndent=None, LeadingSpaces=0, Text=የጥንስ ቅመሟን አማስላ አዋሃደች
+Para 16: LeftIndent=None, LeadingSpaces=0, Text=ከቀድሞውም ዛሬ /፪/ ሕይወት በጣም በልጧል
+Para 17: LeftIndent=None, LeadingSpaces=0, Text=በብዙ ተማስሎ መልካም ሆኖ ጣፍጧል
+Para 18: LeftIndent=None, LeadingSpaces=0, Text=ተእሳት ይሁን ለጠብ/፪/ መክደናችኝ ይቅር
+Para 19: LeftIndent=None, LeadingSpaces=0, Text=ወጡን የሚያስማማው ማማሰያው ፍቅር
+Para 20: LeftIndent=941705, LeadingSpaces=0, Text=
+Para 21: LeftIndent=None, LeadingSpaces=0, Text=ወላዲተአምላክ
+Para 22: LeftIndent=None, LeadingSpaces=0, Text=ከዘመዶቼ ተጣልቼ
+Para 23: LeftIndent=None, LeadingSpaces=0, Text=ከወገኖቼም ተጣልቼ 
+Para 24: LeftIndent=None, LeadingSpaces=0, Text=የሚያስታርቀኝ ሰው አጥቼ 
+Para 25: LeftIndent=None, LeadingSpaces=0, Text=ተቃጥሬያለሁ ለሐሙስ
+Para 26: LeftIndent=None, LeadingSpaces=0, Text=መድኃኔዓለም ድረስ
+Para 27: LeftIndent=None, LeadingSpaces=0, Text=ቅዱስ ቅዱስ ቅዱስ 
+Para 28: LeftIndent=None, LeadingSpaces=0, Text=ጽላት ዘሙሴ ስልሽ
+Para 29: LeftIndent=None, LeadingSpaces=0, Text=የአክሱም ጽዮን ስልሽ 
+Para 30: LeftIndent=None, LeadingSpaces=0, Text=ወላዲተ አምላክ ስልሽ
+Para 31: LeftIndent=None, LeadingSpaces=0, Text=እመብርሃን ስልሽ
+Para 32: LeftIndent=None, LeadingSpaces=0, Text=በሠረገላ ሆነሽ
+Para 33: LeftIndent=None, LeadingSpaces=0, Text=ሚካኤል ገብርኤልንም ይዘሽ 
+Para 34: LeftIndent=None, LeadingSpaces=0, Text=ይሸሻሉ አጋንንት አንቺን ሲያዩሽ
+Para 35: LeftIndent=2162810, LeadingSpaces=0, Text=
+Para 36: LeftIndent=None, LeadingSpaces=1, Text= ተውኩት
+Para 37: LeftIndent=None, LeadingSpaces=0, Text=ለገና ለጥምቀት አልልህም ጠጅ 
+Para 38: LeftIndent=None, LeadingSpaces=0, Text=ደግሞም ለፋሲካ አልልህም ጠጅ
+Para 39: LeftIndent=None, LeadingSpaces=0, Text=ለዳግም ትንሣኤህ እንዳትረሳኝ እንጅ።
+Para 40: LeftIndent=None, LeadingSpaces=0, Text=ተውኩት ተውኩት ተውኩት
+Para 41: LeftIndent=None, LeadingSpaces=0, Text=
+Para 42: LeftIndent=None, LeadingSpaces=0, Text=አምላኬን አንተ አልኩት አንቱ ማለት ጥዬ
+Para 43: LeftIndent=None, LeadingSpaces=0, Text=መውደቅ ላይቀርልኝ ታግዬ ታግዬ
+Para 44: LeftIndent=None, LeadingSpaces=0, Text=ተውኩት ተውኩት ተውኩት
+Para 45: LeftIndent=None, LeadingSpaces=0, Text=አሁን ምን ቢሆን ነው አንዱ አንዱን አይመስል
+Para 46: LeftIndent=None, LeadingSpaces=0, Text=ግማሹ ጥሬ ነው ግማሹ ሲበስል
+Para 47: LeftIndent=None, LeadingSpaces=0, Text=የበሰለው ያራል ጥሬውን ሲያማስል
+Para 48: LeftIndent=None, LeadingSpaces=0, Text=ተውኩት ተውኩት ተውኩት
+Para 49: LeftIndent=None, LeadingSpaces=0, Text=
+Para 50: LeftIndent=None, LeadingSpaces=1, Text= ደምሴአይቀርምሞቱ
+Para 51: LeftIndent=None, LeadingSpaces=0, Text=አንተ ነህ ይሉኛል/፪/ የዓለም ሁሉ ጌታ
+Para 52: LeftIndent=None, LeadingSpaces=0, Text=ሰማይና ምድርን ያቆምክ ያለዋልታ።
+Para 53: LeftIndent=None, LeadingSpaces=0, Text=አይቀርም ሞቱ ሰማይና ምድርን ያቆምክ ያለዋልታ/፪/።
+Para 54: LeftIndent=None, LeadingSpaces=0, Text=በደመነፍስ ሕይወት/፪/ ሰውን መፍጠርህ
+Para 55: LeftIndent=None, LeadingSpaces=0, Text=እንዲጠራ እኮ ነው ቅዱሱ ስምህ።
+Para 56: LeftIndent=None, LeadingSpaces=0, Text=አይቀርም ሞቱ እንዲጠራ እኮ ነው ቅዱሱ ስምህ/፪/።
+Para 57: LeftIndent=None, LeadingSpaces=0, Text=ቤት እሠራ ብዬ/፪/ አጣና ቆርጬ 
+Para 58: LeftIndent=None, LeadingSpaces=0, Text=መሬቱን ደልድዬ እሠራ እሠራ ስል ደከመ ጉልበቴ።
+Para 59: LeftIndent=None, LeadingSpaces=0, Text=አለማገር ቀረች ወይ ቤቴ ወይ ቤቴ።
+Para 60: LeftIndent=None, LeadingSpaces=0, Text=አይቀርም ሞቱ አለማገር ቀረች ወይ ቤቴ ወይ ቤቴ/፫/።
+Para 61: LeftIndent=None, LeadingSpaces=0, Text=ጠማማውን እንጨት ወልጋዳውን እንጨት 
+Para 62: LeftIndent=None, LeadingSpaces=0, Text=ጠማማውን እንጨት እየቆረጣችሁ።
+Para 63: LeftIndent=None, LeadingSpaces=0, Text=ይህም ማገር ሆኖ ቤት ትሠራላችሁ።
+Para 64: LeftIndent=None, LeadingSpaces=0, Text=አይቀርም ሞቱ ይህም ማገር ሆኖ ቤት ትሠራላችሁ/፪/።
+Para 65: LeftIndent=None, LeadingSpaces=0, Text=እኔ/፪/መንገደኛ እኔ መንገደኛ ተሸኝቶ አዳሪ
+Para 66: LeftIndent=None, LeadingSpaces=0, Text=ምን ክፉ አናገረኝ እንግዲህ ከቀሪ።
+Para 67: LeftIndent=None, LeadingSpaces=0, Text=ያለም ሰዎች ሁሉ/፫/ያለም ዳኞች ሁሉ ሁነዋል/፫/ ጉቦኛ
+Para 68: LeftIndent=None, LeadingSpaces=0, Text=ሞት አንተ ብቻ ነህ እውነተኛ ዳኛ።
+Para 69: LeftIndent=None, LeadingSpaces=0, Text=
+Para 70: LeftIndent=None, LeadingSpaces=0, Text=ደምሴድጓጾመድጓ
+Para 71: LeftIndent=None, LeadingSpaces=0, Text=ድጓ ጾመ ድጓ ተሰቅሎ ከቤቴ
+Para 72: LeftIndent=None, LeadingSpaces=0, Text=እኔስ የሚገርመኝ ሳልማር መቅረቴ
+Para 73: LeftIndent=None, LeadingSpaces=0, Text=አንተ ነህ ይሉኛል የዓለም ሁሉ ጌታ
+Para 74: LeftIndent=None, LeadingSpaces=0, Text=ሰማይና ምድርን ያቆምክ ያለዋልታ/፫/ 
+Para 75: LeftIndent=None, LeadingSpaces=0, Text=ወዴት እንዴት ይሆን ያለህበት ቦታ
+Para 76: LeftIndent=None, LeadingSpaces=0, Text=እነግርህ ነበረ እኔ በቆይታ/፫/ 
+Para 77: LeftIndent=None, LeadingSpaces=0, Text=የሠራችልኝን የእናትክን ወሮታ/፪/
+Para 78: LeftIndent=None, LeadingSpaces=0, Text=እሷ ጥሩ እመቤት ቤቷ እማይፈታ/፪/
+Para 79: LeftIndent=None, LeadingSpaces=0, Text=ልጇ ፍጹም ንጉሥ የለው ባለፋንታ/፪/ 
+Para 80: LeftIndent=None, LeadingSpaces=0, Text=እስኪ መከራዋን ልሁን ተናጋሪ
+Para 81: LeftIndent=None, LeadingSpaces=0, Text=ከበረት ወለደች ሆና መሽ አዳሪ
+Para 82: LeftIndent=None, LeadingSpaces=0, Text=ትንፋሽ አመጡላት ላሞች አራስ ጥሪ
+Para 83: LeftIndent=None, LeadingSpaces=0, Text=መሆኑን አውቀውት የእነርሱ ፈጣሪ/፫/
+Para 84: LeftIndent=None, LeadingSpaces=0, Text=እጄ አመድ አፋሽ ነው ሞት ያማኛል አሉ
+Para 85: LeftIndent=None, LeadingSpaces=0, Text=ጨርሼ ሰጥቼው ዘመዶቼን ሁሉ ወገኖቼን ሁሉ
+Para 86: LeftIndent=None, LeadingSpaces=0, Text=ሞት እንዴት ሰነበትክ እንዴት ሰንብተሃል
+Para 87: LeftIndent=None, LeadingSpaces=0, Text=እግዚአብሔር ይመስገን ወዴት ታውቀኛለህ
+Para 88: LeftIndent=None, LeadingSpaces=0, Text=ለምን አላውቅህም አውቅሃልሁ እንጂ
+Para 89: LeftIndent=None, LeadingSpaces=0, Text=የእናቴን የአባቴን ስትዘጋ ደጅ።
+Para 90: LeftIndent=None, LeadingSpaces=0, Text=አንተ ሁልጊዜ እንግዳ ሰው አጥፊ ነህ እንጂ/፪/ 
+Para 91: LeftIndent=None, LeadingSpaces=0, Text=ሞት ተመላለሰ መንገዱ አደረገኝ።
+Para 92: LeftIndent=None, LeadingSpaces=0, Text=ዳግመኛም ቢመጣ ካለ እኔም አያገኝ።
+Para 93: LeftIndent=None, LeadingSpaces=0, Text=
+Para 94: LeftIndent=None, LeadingSpaces=0, Text=ደምሴመልካምቤተልሔም
+Para 95: LeftIndent=None, LeadingSpaces=0, Text=መልካም ቤተልሔም/፪/መልካም ደጀ ሰላም
+Para 96: LeftIndent=None, LeadingSpaces=0, Text=እኔ አምላክን ብሆን በጉልበቴ አልኮራም
+Para 97: LeftIndent=None, LeadingSpaces=0, Text=ላላሰነብተው ላፈርሰው አልሠራም።
+Para 98: LeftIndent=None, LeadingSpaces=0, Text=አሸዋው ሲሚንቶው/፪/ ኖራው ተዋሕዶ
+Para 99: LeftIndent=None, LeadingSpaces=0, Text=አጠበቀው ቤቱን እንዳይፈርስ ተንዶ

@@ -1,0 +1,3 @@
+Para 177: Indent=217.3, Text=
+Para 178: Indent=217.3, Text=
+Para 214: Indent=157.3, Text=

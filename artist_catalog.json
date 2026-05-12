@@ -7,12 +7,12 @@
       "songs": [
         {
           "id": "1",
-          "title": "ጻድቅ ኢትዮጵያ",
+          "title": "ጻድቅኢትዮጵያ",
           "lyrics_asset_file": "assets/data/lyrics/demse/1.json"
         },
         {
           "id": "2",
-          "title": "ወላዲተ አምላክ",
+          "title": "ወላዲተአምላክ",
           "lyrics_asset_file": "assets/data/lyrics/demse/2.json"
         },
         {
@@ -22,37 +22,37 @@
         },
         {
           "id": "4",
-          "title": "አይቀርም ሞቱ",
+          "title": "ደምሴአይቀርምሞቱ",
           "lyrics_asset_file": "assets/data/lyrics/demse/4.json"
         },
         {
           "id": "5",
-          "title": "ድጓ ጾመ ድጓ",
+          "title": "ደምሴድጓጾመድጓ",
           "lyrics_asset_file": "assets/data/lyrics/demse/5.json"
         },
         {
           "id": "6",
-          "title": "መልካም ቤተልሔም",
+          "title": "ደምሴመልካምቤተልሔም",
           "lyrics_asset_file": "assets/data/lyrics/demse/6.json"
         },
         {
           "id": "7",
-          "title": "በዚህ ጊዜ",
+          "title": "ደምሴበዚህጊዜ",
           "lyrics_asset_file": "assets/data/lyrics/demse/7.json"
         },
         {
           "id": "8",
-          "title": "አዳም በበደለ",
+          "title": "ደምሴአዳምበበደለ",
           "lyrics_asset_file": "assets/data/lyrics/demse/8.json"
         },
         {
           "id": "9",
-          "title": "ይበላሃላ",
+          "title": "ደምሴይበላሃላ",
           "lyrics_asset_file": "assets/data/lyrics/demse/9.json"
         },
         {
           "id": "10",
-          "title": "ዋ...እኔን",
+          "title": "ደምሴዋእኔን",
           "lyrics_asset_file": "assets/data/lyrics/demse/10.json"
         }
       ]
@@ -64,787 +64,113 @@
       "songs": [
         {
           "id": "1",
-          "title": "ዓርብ እሮብ",
+          "title": "ዘርፉዓርብእሮብ",
           "lyrics_asset_file": "assets/lyrics/zerfu/1.json"
         },
         {
           "id": "2",
-          "title": "መልካም ቤተልሄም",
+          "title": "ዘርፉመልካምቤተልሄም",
           "lyrics_asset_file": "assets/lyrics/zerfu/2.json"
         },
         {
           "id": "3",
-          "title": "ጲላጦስም",
+          "title": "ዘርፉጲላጦስም",
           "lyrics_asset_file": "assets/lyrics/zerfu/3.json"
         },
         {
           "id": "4",
-          "title": "ይበላሃላ",
+          "title": "ዘርፉይበላሃላ",
           "lyrics_asset_file": "assets/lyrics/zerfu/4.json"
         },
         {
           "id": "5",
-          "title": "በጌቴ ሴማኔ",
+          "title": "ዘርፉበጌቴሴማኔ",
           "lyrics_asset_file": "assets/lyrics/zerfu/5.json"
         },
         {
           "id": "6",
-          "title": "ኧረ ስማኝ ሀገሬ",
+          "title": "ዘርፉየበላኤሰብእመቤት",
           "lyrics_asset_file": "assets/lyrics/zerfu/6.json"
         },
         {
           "id": "7",
-          "title": "ድንግልም",
+          "title": "ዘርፉድንግልም",
           "lyrics_asset_file": "assets/lyrics/zerfu/7.json"
         },
         {
           "id": "8",
-          "title": "የእመቤታችን ምሥጋና",
+          "title": "ዘርፉየእመቤታችንምሥጋና",
           "lyrics_asset_file": "assets/lyrics/zerfu/8.json"
         },
         {
           "id": "9",
-          "title": "ስለ አዳም መፈጠር",
+          "title": "ዘርፉስለአዳምመፈጠር",
           "lyrics_asset_file": "assets/lyrics/zerfu/9.json"
         },
         {
           "id": "10",
-          "title": "እስመ አንተ",
+          "title": "ዘርፉእስመአንተ",
           "lyrics_asset_file": "assets/lyrics/zerfu/10.json"
         },
         {
           "id": "11",
-          "title": "ዳግም ስትመጣ",
+          "title": "ዘርፉዳግምስትመጣ",
           "lyrics_asset_file": "assets/lyrics/zerfu/11.json"
         },
         {
           "id": "12",
-          "title": "ዐርብ የታረደውን",
+          "title": "ዘርፉዐርብየታረደውን",
           "lyrics_asset_file": "assets/lyrics/zerfu/12.json"
         },
         {
           "id": "13",
-          "title": "አዲስ ቤት ስትሠሩ",
+          "title": "ዘርፉአዲስቤትስትሠሩ",
           "lyrics_asset_file": "assets/lyrics/zerfu/13.json"
         },
         {
           "id": "14",
-          "title": "እንመን በስሙ",
+          "title": "ዘርፉእንመንበስሙ",
           "lyrics_asset_file": "assets/lyrics/zerfu/14.json"
         },
         {
           "id": "15",
-          "title": "ተወለደልን",
+          "title": "ዘርፉተወለደልን",
           "lyrics_asset_file": "assets/lyrics/zerfu/15.json"
         },
         {
           "id": "16",
-          "title": "በአዳም በደል",
+          "title": "ዘርፉበአዳምበደል",
           "lyrics_asset_file": "assets/lyrics/zerfu/16.json"
         },
         {
           "id": "17",
-          "title": "የኢየሩሳሌም ቆነጃጅት",
+          "title": "ዘርፉየኢየሩሳሌምቆነጃጅት",
           "lyrics_asset_file": "assets/lyrics/zerfu/17.json"
         },
         {
           "id": "18",
-          "title": "አሐዱ ብሎ ቅዱስ",
+          "title": "ዘርፉአሐዱብሎቅዱስ",
           "lyrics_asset_file": "assets/lyrics/zerfu/18.json"
         },
         {
           "id": "19",
-          "title": "እፎ ታገስከኝ",
+          "title": "ዘርፉቅዱስ",
           "lyrics_asset_file": "assets/lyrics/zerfu/19.json"
         },
         {
           "id": "20",
-          "title": "ሞት እንዴት ሰነበትክ",
+          "title": "ዘርፉሞትእንዴትሰነበትክ",
           "lyrics_asset_file": "assets/lyrics/zerfu/20.json"
         },
         {
           "id": "21",
-          "title": "ኪዳነ ምህረት",
+          "title": "ዘርፉኪዳነምህረት",
           "lyrics_asset_file": "assets/lyrics/zerfu/21.json"
-        }
-      ]
-    },
-    {
-      "id": "3",
-      "name": "መጋቤ ስብሐት ዓለሙ አጋ",
-      "image": "assets/images/መጋቤ ስብሐት ዓለሙ አጋ.jpg",
-      "songs": [
-        {
-          "id": "1",
-          "title": "አባታችን",
-          "lyrics_asset_file": "assets/lyrics/alemu/1.json"
-        },
-        {
-          "id": "2",
-          "title": "ወንድሜ ጠፍቶ",
-          "lyrics_asset_file": "assets/lyrics/alemu/2.json"
-        },
-        {
-          "id": "3",
-          "title": "ተው ስማኝ ሀገሬ",
-          "lyrics_asset_file": "assets/lyrics/alemu/3.json"
-        },
-        {
-          "id": "4",
-          "title": "ሰላም ለኪ",
-          "lyrics_asset_file": "assets/lyrics/alemu/4.json"
-        },
-        {
-          "id": "5",
-          "title": "ከቶ አይቀርም ሞቱ",
-          "lyrics_asset_file": "assets/lyrics/alemu/5.json"
-        },
-        {
-          "id": "6",
-          "title": "ስለ ሥነ-ስቅለት",
-          "lyrics_asset_file": "assets/lyrics/alemu/6.json"
-        },
-        {
-          "id": "7",
-          "title": "አባ ግራኝ ሞተ",
-          "lyrics_asset_file": "assets/lyrics/alemu/7.json"
-        },
-        {
-          "id": "8",
-          "title": "ስለ ሥነ ፍጥረት",
-          "lyrics_asset_file": "assets/lyrics/alemu/8.json"
-        },
-        {
-          "id": "9",
-          "title": "ስለ ዳግም ምፅዓት",
-          "lyrics_asset_file": "assets/lyrics/alemu/9.json"
-        },
-        {
-          "id": "10",
-          "title": "ስለ ልደት",
-          "lyrics_asset_file": "assets/lyrics/alemu/10.json"
-        },
-        {
-          "id": "11",
-          "title": "ማን ይመራመር",
-          "lyrics_asset_file": "assets/lyrics/alemu/11.json"
-        },
-        {
-          "id": "12",
-          "title": "ማን ይመራመር 2",
-          "lyrics_asset_file": "assets/lyrics/alemu/12.json"
-        },
-        {
-          "id": "13",
-          "title": "ስለ ምሥጢረ ሆሣዕና",
-          "lyrics_asset_file": "assets/lyrics/alemu/13.json"
-        },
-        {
-          "id": "14",
-          "title": "ዋኔን",
-          "lyrics_asset_file": "assets/lyrics/alemu/14.json"
-        },
-        {
-          "id": "15",
-          "title": "ይበላሃላ",
-          "lyrics_asset_file": "assets/lyrics/alemu/15.json"
-        },
-        {
-          "id": "16",
-          "title": "ዓለም ማረፊያ ናት",
-          "lyrics_asset_file": "assets/lyrics/alemu/16.json"
-        },
-        {
-          "id": "17",
-          "title": "እስመ አንተ",
-          "lyrics_asset_file": "assets/lyrics/alemu/17.json"
-        },
-        {
-          "id": "18",
-          "title": "አላየንም በሉ",
-          "lyrics_asset_file": "assets/lyrics/alemu/18.json"
-        },
-        {
-          "id": "19",
-          "title": "የበገና አካላት",
-          "lyrics_asset_file": "assets/lyrics/alemu/19.json"
-        }
-      ]
-    },
-    {
-      "id": "4",
-      "name": "አቶ ታፈሰ ተስፋዬ",
-      "image": "assets/images/አቶ ታፈሰ ተስፋዬ.jpg",
-      "songs": [
-        {
-          "id": "1",
-          "title": "በስመ አብ",
-          "lyrics_asset_file": "assets/lyrics/tafese/1.json"
-        },
-        {
-          "id": "2",
-          "title": "ርግብና ዋኔን",
-          "lyrics_asset_file": "assets/lyrics/tafese/2.json"
-        },
-        {
-          "id": "3",
-          "title": "ማን ይመራመር",
-          "lyrics_asset_file": "assets/lyrics/tafese/3.json"
-        },
-        {
-          "id": "4",
-          "title": "አየሁኝ በህልሜ",
-          "lyrics_asset_file": "assets/lyrics/tafese/4.json"
-        },
-        {
-          "id": "5",
-          "title": "ገብረ መንፈስቅዱስ",
-          "lyrics_asset_file": "assets/lyrics/tafese/5.json"
-        },
-        {
-          "id": "6",
-          "title": "ስለ ስነ ፍጥረት",
-          "lyrics_asset_file": "assets/lyrics/tafese/6.json"
-        },
-        {
-          "id": "7",
-          "title": "አባታችን",
-          "lyrics_asset_file": "assets/lyrics/tafese/7.json"
-        },
-        {
-          "id": "8",
-          "title": "ስለ ልደት",
-          "lyrics_asset_file": "assets/lyrics/tafese/8.json"
-        },
-        {
-          "id": "9",
-          "title": "ስለ ጥምቀት/ሆሳዕና",
-          "lyrics_asset_file": "assets/lyrics/tafese/9.json"
-        },
-        {
-          "id": "10",
-          "title": "ስለ ሥነ-ስቅለት",
-          "lyrics_asset_file": "assets/lyrics/tafese/10.json"
-        },
-        {
-          "id": "11",
-          "title": "ስለ ትንሳኤ",
-          "lyrics_asset_file": "assets/lyrics/tafese/11.json"
-        },
-        {
-          "id": "12",
-          "title": "ወዳጄ ወዳጄ",
-          "lyrics_asset_file": "assets/lyrics/tafese/12.json"
-        },
-        {
-          "id": "13",
-          "title": "ወዳጄ ወዳጄ 2",
-          "lyrics_asset_file": "assets/lyrics/tafese/13.json"
-        },
-        {
-          "id": "14",
-          "title": "ከደጇ ይፈልቃል",
-          "lyrics_asset_file": "assets/lyrics/tafese/14.json"
-        }
-      ]
-    },
-    {
-      "id": "5",
-      "name": "ሊቀ መዘምራን ይልማ ኃይሉ",
-      "image": "assets/images/ዘማሪ ይልማ ኃይሉ.jpg",
-      "songs": [
-        {
-          "id": "1",
-          "title": "በይስሐቅ ፈንታ",
-          "lyrics_asset_file": "assets/lyrics/yilma/1.json"
-        },
-        {
-          "id": "2",
-          "title": "የብርሃን እናት",
-          "lyrics_asset_file": "assets/lyrics/yilma/2.json"
-        },
-        {
-          "id": "3",
-          "title": "አዝላው ወረደች",
-          "lyrics_asset_file": "assets/lyrics/yilma/3.json"
-        },
-        {
-          "id": "4",
-          "title": "ሥላሴን ከሰማይ",
-          "lyrics_asset_file": "assets/lyrics/yilma/4.json"
-        },
-        {
-          "id": "5",
-          "title": "ኃይልህ ሲገለጥ",
-          "lyrics_asset_file": "assets/lyrics/yilma/5.json"
-        },
-        {
-          "id": "6",
-          "title": "ውሃ አጠጪኝ አላት",
-          "lyrics_asset_file": "assets/lyrics/yilma/6.json"
-        },
-        {
-          "id": "7",
-          "title": "አቤቱ ደግ ሰው",
-          "lyrics_asset_file": "assets/lyrics/yilma/7.json"
-        },
-        {
-          "id": "8",
-          "title": "አልዓዛር ይነሳ",
-          "lyrics_asset_file": "assets/lyrics/yilma/8.json"
-        },
-        {
-          "id": "9",
-          "title": "እግዚአብሔር ለዳዊት",
-          "lyrics_asset_file": "assets/lyrics/yilma/9.json"
-        },
-        {
-          "id": "10",
-          "title": "ይበላሃላ",
-          "lyrics_asset_file": "assets/lyrics/yilma/10.json"
-        },
-        {
-          "id": "11",
-          "title": "ብስራተ ገብርኤል",
-          "lyrics_asset_file": "assets/lyrics/yilma/11.json"
-        },
-        {
-          "id": "12",
-          "title": "አምላኬ አምላኬ",
-          "lyrics_asset_file": "assets/lyrics/yilma/12.json"
-        },
-        {
-          "id": "13",
-          "title": "በማዳኔ ቀን ጠራሁህ",
-          "lyrics_asset_file": "assets/lyrics/yilma/13.json"
-        },
-        {
-          "id": "14",
-          "title": "የእኛ ጌታ",
-          "lyrics_asset_file": "assets/lyrics/yilma/14.json"
-        },
-        {
-          "id": "15",
-          "title": "ማን ይመራመር",
-          "lyrics_asset_file": "assets/lyrics/yilma/15.json"
-        },
-        {
-          "id": "16",
-          "title": "ዋ እኔን",
-          "lyrics_asset_file": "assets/lyrics/yilma/16.json"
-        },
-        {
-          "id": "17",
-          "title": "አላየንም በሉ",
-          "lyrics_asset_file": "assets/lyrics/yilma/17.json"
-        },
-        {
-          "id": "18",
-          "title": "እስመ አንተ",
-          "lyrics_asset_file": "assets/lyrics/yilma/18.json"
-        },
-        {
-          "id": "19",
-          "title": "ኪርያላይሶን",
-          "lyrics_asset_file": "assets/lyrics/yilma/19.json"
-        }
-      ]
-    },
-    {
-      "id": "6",
-      "name": "ሊቀ ልሳናት መምህር ሲሳይ ደምሴ",
-      "image": "assets/images/ሊቀ ልሳናት መምህር ሲሳይ ደምሴ.jpg",
-      "songs": [
-        {
-          "id": "1",
-          "title": "ውለታህ ብዙ",
-          "lyrics_asset_file": "assets/lyrics/sisay/1.json"
-        },
-        {
-          "id": "2",
-          "title": "ሰላም ተዋህዶ",
-          "lyrics_asset_file": "assets/lyrics/sisay/2.json"
-        },
-        {
-          "id": "3",
-          "title": "ጽኑ ክርስቲያኖች",
-          "lyrics_asset_file": "assets/lyrics/sisay/3.json"
-        },
-        {
-          "id": "4",
-          "title": "የቅዱሳን አምባ",
-          "lyrics_asset_file": "assets/lyrics/sisay/4.json"
-        },
-        {
-          "id": "5",
-          "title": "በምን በምን እንመስልሽ",
-          "lyrics_asset_file": "assets/lyrics/sisay/5.json"
-        },
-        {
-          "id": "6",
-          "title": "ሰዓሊለነ ማርያም",
-          "lyrics_asset_file": "assets/lyrics/sisay/6.json"
-        },
-        {
-          "id": "7",
-          "title": "አምላከ ዳዊት",
-          "lyrics_asset_file": "assets/lyrics/sisay/7.json"
-        },
-        {
-          "id": "8",
-          "title": "ከመንፈስህ",
-          "lyrics_asset_file": "assets/lyrics/sisay/8.json"
-        },
-        {
-          "id": "9",
-          "title": "ዋ እኔን",
-          "lyrics_asset_file": "assets/lyrics/sisay/9.json"
-        }
-      ]
-    },
-    {
-      "id": "7",
-      "name": "ዘማሪ ዲያቆን አቤል ተስፋዬ",
-      "image": "assets/images/ዘማሪ ዲያቆን አቤል ተስፋዬ.jpg",
-      "songs": [
-        {
-          "id": "1",
-          "title": "በኪሩቤል ላይ ተቀመጠ",
-          "lyrics_asset_file": "assets/lyrics/abel/1.json"
-        },
-        {
-          "id": "2",
-          "title": "ስምሽ ጉልበት ሆኖኝ",
-          "lyrics_asset_file": "assets/lyrics/abel/2.json"
-        },
-        {
-          "id": "3",
-          "title": "ሞትን በሞት ገድለህ",
-          "lyrics_asset_file": "assets/lyrics/abel/3.json"
-        },
-        {
-          "id": "4",
-          "title": "መች ይረሳል",
-          "lyrics_asset_file": "assets/lyrics/abel/4.json"
-        },
-        {
-          "id": "5",
-          "title": "የዛሬ ዘመን መኮንን",
-          "lyrics_asset_file": "assets/lyrics/abel/5.json"
-        },
-        {
-          "id": "6",
-          "title": "በደም ሊታጠብ ኃጢአቴ",
-          "lyrics_asset_file": "assets/lyrics/abel/6.json"
-        },
-        {
-          "id": "7",
-          "title": "ሠላምህ ይብዛላት",
-          "lyrics_asset_file": "assets/lyrics/abel/7.json"
-        },
-        {
-          "id": "8",
-          "title": "ስሜ ዳዊት",
-          "lyrics_asset_file": "assets/lyrics/abel/8.json"
-        },
-        {
-          "id": "9",
-          "title": "በደላችንን የተውክልን",
-          "lyrics_asset_file": "assets/lyrics/abel/9.json"
-        },
-        {
-          "id": "10",
-          "title": "ሥላሴ",
-          "lyrics_asset_file": "assets/lyrics/abel/10.json"
-        },
-        {
-          "id": "11",
-          "title": "ጥሩልኝ ዳዊትን",
-          "lyrics_asset_file": "assets/lyrics/abel/11.json"
-        },
-        {
-          "id": "12",
-          "title": "ሦስትነት ባለው",
-          "lyrics_asset_file": "assets/lyrics/abel/12.json"
-        },
-        {
-          "id": "13",
-          "title": "የቃል ማደሪያ ነሽ",
-          "lyrics_asset_file": "assets/lyrics/abel/13.json"
-        },
-        {
-          "id": "14",
-          "title": "በጾም",
-          "lyrics_asset_file": "assets/lyrics/abel/14.json"
-        },
-        {
-          "id": "15",
-          "title": "ስለኔ ለሞተ",
-          "lyrics_asset_file": "assets/lyrics/abel/15.json"
-        },
-        {
-          "id": "16",
-          "title": "ደጁ ሲመላለስ",
-          "lyrics_asset_file": "assets/lyrics/abel/16.json"
-        },
-        {
-          "id": "17",
-          "title": "በፈጣን ደመና",
-          "lyrics_asset_file": "assets/lyrics/abel/17.json"
-        },
-        {
-          "id": "18",
-          "title": "እስከ መቼ ነው",
-          "lyrics_asset_file": "assets/lyrics/abel/18.json"
-        },
-        {
-          "id": "19",
-          "title": "ቅዱስ",
-          "lyrics_asset_file": "assets/lyrics/abel/19.json"
-        },
-        {
-          "id": "20",
-          "title": "በርባን ነኝ",
-          "lyrics_asset_file": "assets/lyrics/abel/20.json"
-        },
-        {
-          "id": "21",
-          "title": "ሞት ሆይ",
-          "lyrics_asset_file": "assets/lyrics/abel/21.json"
         },
         {
           "id": "22",
-          "title": "ማን በማን ይፈርዳል",
-          "lyrics_asset_file": "assets/lyrics/abel/22.json"
-        },
-        {
-          "id": "23",
-          "title": "ሰላም በልጅሽ ነው",
-          "lyrics_asset_file": "assets/lyrics/abel/23.json"
-        },
-        {
-          "id": "24",
-          "title": "ከመታስተየነ",
-          "lyrics_asset_file": "assets/lyrics/abel/24.json"
-        },
-        {
-          "id": "25",
-          "title": "ኮከብ ነህ",
-          "lyrics_asset_file": "assets/lyrics/abel/25.json"
-        },
-        {
-          "id": "26",
-          "title": "ምነው ወዳጄ",
-          "lyrics_asset_file": "assets/lyrics/abel/26.json"
-        },
-        {
-          "id": "27",
-          "title": "የተዘጋች አፍን",
-          "lyrics_asset_file": "assets/lyrics/abel/27.json"
-        },
-        {
-          "id": "28",
-          "title": "የቃል ኪዳን ምድር",
-          "lyrics_asset_file": "assets/lyrics/abel/28.json"
-        },
-        {
-          "id": "29",
-          "title": "አቡነ ዘበሰማያት",
-          "lyrics_asset_file": "assets/lyrics/abel/29.json"
-        },
-        {
-          "id": "30",
-          "title": "የመርከቧ ተጓዦች ነን",
-          "lyrics_asset_file": "assets/lyrics/abel/30.json"
-        },
-        {
-          "id": "31",
-          "title": "ምፅአት",
-          "lyrics_asset_file": "assets/lyrics/abel/31.json"
-        },
-        {
-          "id": "32",
-          "title": "የዓለም ጨለማ የራቀብሽ",
-          "lyrics_asset_file": "assets/lyrics/abel/32.json"
-        },
-        {
-          "id": "33",
-          "title": "እመኑ በልጁ (ዘወረደ)",
-          "lyrics_asset_file": "assets/lyrics/abel/33.json"
-        },
-        {
-          "id": "34",
-          "title": "ያከብርዋ (ቅድስት)",
-          "lyrics_asset_file": "assets/lyrics/abel/34.json"
-        },
-        {
-          "id": "35",
-          "title": "ለድሆች ወንጌልን (ምኩራብ)",
-          "lyrics_asset_file": "assets/lyrics/abel/35.json"
-        },
-        {
-          "id": "36",
-          "title": "ሰው የለኝም አለው (መጻጉዕ)",
-          "lyrics_asset_file": "assets/lyrics/abel/36.json"
-        },
-        {
-          "id": "37",
-          "title": "ዝም አይልም አምላክ (ደብረ ዘይት)",
-          "lyrics_asset_file": "assets/lyrics/abel/37.json"
-        },
-        {
-          "id": "38",
-          "title": "በከመ ምህረትከ (ገብርኄር)",
-          "lyrics_asset_file": "assets/lyrics/abel/38.json"
-        },
-        {
-          "id": "39",
-          "title": "ኒቆዲሞስ",
-          "lyrics_asset_file": "assets/lyrics/abel/39.json"
-        },
-        {
-          "id": "40",
-          "title": "ሆሳዕና በአርያም",
-          "lyrics_asset_file": "assets/lyrics/abel/40.json"
-        },
-        {
-          "id": "41",
-          "title": "ላሐ ማርያም",
-          "lyrics_asset_file": "assets/lyrics/abel/41.json"
-        }
-      ]
-    },
-    {
-      "id": "8",
-      "name": "ዘማሪት ሶስና ገብረኢየሱስ",
-      "image": "assets/images/ዘማሪት ሶስና ገብረኢየሱስ.jpg",
-      "songs": [
-        {
-          "id": "1",
-          "title": "በስመ ልዑል",
-          "lyrics_asset_file": "assets/lyrics/sosna/1.json"
-        },
-        {
-          "id": "2",
-          "title": "ዋኔን",
-          "lyrics_asset_file": "assets/lyrics/sosna/2.json"
-        },
-        {
-          "id": "3",
-          "title": "ቸሩ መድኃኔዓለም",
-          "lyrics_asset_file": "assets/lyrics/sosna/3.json"
-        },
-        {
-          "id": "4",
-          "title": "በመስቀል ተሰቅሎ",
-          "lyrics_asset_file": "assets/lyrics/sosna/4.json"
-        },
-        {
-          "id": "5",
-          "title": "ሰላም ለማርያም",
-          "lyrics_asset_file": "assets/lyrics/sosna/5.json"
-        },
-        {
-          "id": "6",
-          "title": "እመቤቴ",
-          "lyrics_asset_file": "assets/lyrics/sosna/6.json"
-        },
-        {
-          "id": "7",
-          "title": "አስቀድሞ",
-          "lyrics_asset_file": "assets/lyrics/sosna/7.json"
-        },
-        {
-          "id": "8",
-          "title": "አድነኝ ከሞት",
-          "lyrics_asset_file": "assets/lyrics/sosna/8.json"
-        },
-        {
-          "id": "9",
-          "title": "ስቀለው ስቀለው",
-          "lyrics_asset_file": "assets/lyrics/sosna/9.json"
-        },
-        {
-          "id": "10",
-          "title": "ድንግል ስልሽ",
-          "lyrics_asset_file": "assets/lyrics/sosna/10.json"
-        },
-        {
-          "id": "11",
-          "title": "አሥር አውታር ባለው",
-          "lyrics_asset_file": "assets/lyrics/sosna/11.json"
-        },
-        {
-          "id": "12",
-          "title": "አንገቴን አልሰብርም",
-          "lyrics_asset_file": "assets/lyrics/sosna/12.json"
-        }
-      ]
-    },
-    {
-      "id": "9",
-      "name": "ዘማሪት የትምወርቅ ሙላት",
-      "image": "assets/images/ዘማሪት የትምወርቅ ሙላት.jpg",
-      "songs": [
-        {
-          "id": "1",
-          "title": "ሰማይና ምድርን",
-          "lyrics_asset_file": "assets/lyrics/yetm/1.json"
-        },
-        {
-          "id": "2",
-          "title": "በገናዬን ላንሳ",
-          "lyrics_asset_file": "assets/lyrics/yetm/2.json"
-        },
-        {
-          "id": "3",
-          "title": "ልቤን ላንሳ",
-          "lyrics_asset_file": "assets/lyrics/yetm/3.json"
-        },
-        {
-          "id": "4",
-          "title": "ሰቀሉህ",
-          "lyrics_asset_file": "assets/lyrics/yetm/4.json"
-        },
-        {
-          "id": "5",
-          "title": "እሰይ ጌታ ተወለደ",
-          "lyrics_asset_file": "assets/lyrics/yetm/5.json"
-        },
-        {
-          "id": "6",
-          "title": "የሳምራዊው ደግነቱ",
-          "lyrics_asset_file": "assets/lyrics/yetm/6.json"
-        },
-        {
-          "id": "7",
-          "title": "ይህን ሁሉ ፍቅር",
-          "lyrics_asset_file": "assets/lyrics/yetm/7.json"
-        },
-        {
-          "id": "8",
-          "title": "በልዑል መጠጊያ",
-          "lyrics_asset_file": "assets/lyrics/yetm/8.json"
-        },
-        {
-          "id": "9",
-          "title": "በድንኳንህ",
-          "lyrics_asset_file": "assets/lyrics/yetm/9.json"
-        },
-        {
-          "id": "10",
-          "title": "እጆቿን ዘርግታ",
-          "lyrics_asset_file": "assets/lyrics/yetm/10.json"
-        },
-        {
-          "id": "11",
-          "title": "ስደት",
-          "lyrics_asset_file": "assets/lyrics/yetm/11.json"
-        },
-        {
-          "id": "12",
-          "title": "ከምንጭ ውሃ",
-          "lyrics_asset_file": "assets/lyrics/yetm/12.json"
+          "title": "ዘርፉዋእኔን",
+          "lyrics_asset_file": "assets/lyrics/zerfu/22.json"
         }
       ]
     },
@@ -854,385 +180,9 @@
       "image": "assets/images/አለቃ ተሰማ ወልደ አማኑኤል.jpg",
       "songs": [
         {
-          "id": "1",
-          "title": "እመቤታችን",
-          "lyrics_asset_file": "assets/lyrics/tessema/1.json"
-        },
-        {
-          "id": "2",
-          "title": "የድሮ ዘመን",
-          "lyrics_asset_file": "assets/lyrics/tessema/2.json"
-        },
-        {
           "id": "3",
-          "title": "ሰላምታ",
+          "title": "አለቃሰላምታ",
           "lyrics_asset_file": "assets/lyrics/tessema/3.json"
-        },
-        {
-          "id": "4",
-          "title": "ከቶ አይቀርም ሞቱ",
-          "lyrics_asset_file": "assets/lyrics/tessema/4.json"
-        },
-        {
-          "id": "5",
-          "title": "መኑ ተኅሥሡ",
-          "lyrics_asset_file": "assets/lyrics/tessema/5.json"
-        },
-        {
-          "id": "6",
-          "title": "አንተ ነህ",
-          "lyrics_asset_file": "assets/lyrics/tessema/6.json"
-        },
-        {
-          "id": "7",
-          "title": "ማን ይመራመር",
-          "lyrics_asset_file": "assets/lyrics/tessema/7.json"
-        },
-        {
-          "id": "8",
-          "title": "ማን ይመራመር 2",
-          "lyrics_asset_file": "assets/lyrics/tessema/8.json"
-        },
-        {
-          "id": "9",
-          "title": "ማን ይመራመር 3",
-          "lyrics_asset_file": "assets/lyrics/tessema/9.json"
-        },
-        {
-          "id": "10",
-          "title": "ይበላሃላ",
-          "lyrics_asset_file": "assets/lyrics/tessema/10.json"
-        },
-        {
-          "id": "11",
-          "title": "በእንተ ፍቅረ አብ",
-          "lyrics_asset_file": "assets/lyrics/tessema/11.json"
-        },
-        {
-          "id": "12",
-          "title": "ቅዱስ",
-          "lyrics_asset_file": "assets/lyrics/tessema/12.json"
-        },
-        {
-          "id": "13",
-          "title": "እግዚኦ",
-          "lyrics_asset_file": "assets/lyrics/tessema/13.json"
-        },
-        {
-          "id": "14",
-          "title": "ክርስቶስ ተንሥዓ እሙታን",
-          "lyrics_asset_file": "assets/lyrics/tessema/14.json"
-        },
-        {
-          "id": "15",
-          "title": "ቀን የጣለ እንደሆን",
-          "lyrics_asset_file": "assets/lyrics/tessema/15.json"
-        }
-      ]
-    },
-    {
-      "id": "11",
-      "name": "ዘማሪ ዘውዱ ጌታቸው",
-      "image": "assets/images/ዘማሪ ዘውዱ ጌታቸው.jpg",
-      "songs": [
-        {
-          "id": "1",
-          "title": "ቅድመ ዓለም ንጉሥ",
-          "lyrics_asset_file": "assets/lyrics/zewdu/1.json"
-        },
-        {
-          "id": "2",
-          "title": "ቤተ ስብሐት",
-          "lyrics_asset_file": "assets/lyrics/zewdu/2.json"
-        },
-        {
-          "id": "3",
-          "title": "ከሰገነት ወጥተህ",
-          "lyrics_asset_file": "assets/lyrics/zewdu/3.json"
-        },
-        {
-          "id": "4",
-          "title": "ሀዘን መከራ",
-          "lyrics_asset_file": "assets/lyrics/zewdu/4.json"
-        },
-        {
-          "id": "5",
-          "title": "በዘሩ የነበረች",
-          "lyrics_asset_file": "assets/lyrics/zewdu/5.json"
-        },
-        {
-          "id": "6",
-          "title": "የአባ ሕርያቆስ",
-          "lyrics_asset_file": "assets/lyrics/zewdu/6.json"
-        },
-        {
-          "id": "7",
-          "title": "ሰላም ልበልሽ",
-          "lyrics_asset_file": "assets/lyrics/zewdu/7.json"
-        },
-        {
-          "id": "8",
-          "title": "አስተርዮ ኮነ",
-          "lyrics_asset_file": "assets/lyrics/zewdu/8.json"
-        }
-      ]
-    },
-    {
-      "id": "12",
-      "name": "ዘማሪ ዓለማየሁ ፋንታ",
-      "image": "assets/images/ዘማሪ ዓለማየሁ ፋንታ.jpg",
-      "songs": [
-        {
-          "id": "1",
-          "title": "ከእንግዲህ አልደግምም",
-          "lyrics_asset_file": "assets/lyrics/alemayehu/1.json"
-        },
-        {
-          "id": "2",
-          "title": "እናት አባትሽ",
-          "lyrics_asset_file": "assets/lyrics/alemayehu/2.json"
-        },
-        {
-          "id": "3",
-          "title": "በስመ አብ",
-          "lyrics_asset_file": "assets/lyrics/alemayehu/3.json"
-        },
-        {
-          "id": "4",
-          "title": "እንኳን ነአኩተከ",
-          "lyrics_asset_file": "assets/lyrics/alemayehu/4.json"
-        },
-        {
-          "id": "5",
-          "title": "ማን ይመራመር",
-          "lyrics_asset_file": "assets/lyrics/alemayehu/5.json"
-        },
-        {
-          "id": "6",
-          "title": "ያወጣኸን",
-          "lyrics_asset_file": "assets/lyrics/alemayehu/6.json"
-        },
-        {
-          "id": "7",
-          "title": "ከቶ አይቀርም ሞቱ",
-          "lyrics_asset_file": "assets/lyrics/alemayehu/7.json"
-        },
-        {
-          "id": "8",
-          "title": "በእናቱ ነው እንጂ",
-          "lyrics_asset_file": "assets/lyrics/alemayehu/8.json"
-        },
-        {
-          "id": "9",
-          "title": "ቅዱስ",
-          "lyrics_asset_file": "assets/lyrics/alemayehu/9.json"
-        },
-        {
-          "id": "10",
-          "title": "ከዳዊት መዝሙር",
-          "lyrics_asset_file": "assets/lyrics/alemayehu/10.json"
-        },
-        {
-          "id": "11",
-          "title": "ይስሐቅ በኩር ልጁን",
-          "lyrics_asset_file": "assets/lyrics/alemayehu/11.json"
-        }
-      ]
-    },
-    {
-      "id": "13",
-      "name": "ዲያቆን ታደለ ገዲፍ",
-      "image": "assets/images/ዲያቆን ታደለ ገዲፍ.jpg",
-      "songs": [
-        {
-          "id": "1",
-          "title": "ሞቴን አየሁት",
-          "lyrics_asset_file": "assets/lyrics/tadele/1.json"
-        },
-        {
-          "id": "2",
-          "title": "ሸክም ከብዶ",
-          "lyrics_asset_file": "assets/lyrics/tadele/2.json"
-        },
-        {
-          "id": "3",
-          "title": "ችግር በርትቶ",
-          "lyrics_asset_file": "assets/lyrics/tadele/3.json"
-        },
-        {
-          "id": "4",
-          "title": "ነይ ድንግል",
-          "lyrics_asset_file": "assets/lyrics/tadele/4.json"
-        },
-        {
-          "id": "5",
-          "title": "አለ ወይ",
-          "lyrics_asset_file": "assets/lyrics/tadele/5.json"
-        },
-        {
-          "id": "6",
-          "title": "አንተ አልቅሰህ",
-          "lyrics_asset_file": "assets/lyrics/tadele/6.json"
-        },
-        {
-          "id": "7",
-          "title": "የሴቱ አለባበስ",
-          "lyrics_asset_file": "assets/lyrics/tadele/7.json"
-        },
-        {
-          "id": "8",
-          "title": "ኧረ ምነው",
-          "lyrics_asset_file": "assets/lyrics/tadele/8.json"
-        },
-        {
-          "id": "9",
-          "title": "ድሀ ነሽ ሀገሬ",
-          "lyrics_asset_file": "assets/lyrics/tadele/9.json"
-        },
-        {
-          "id": "10",
-          "title": "ኧረ ስማኝ አምላኬ",
-          "lyrics_asset_file": "assets/lyrics/tadele/10.json"
-        },
-        {
-          "id": "11",
-          "title": "ኧረ አንቺ ዓለም",
-          "lyrics_asset_file": "assets/lyrics/tadele/11.json"
-        },
-        {
-          "id": "12",
-          "title": "እግዚአብሔርም",
-          "lyrics_asset_file": "assets/lyrics/tadele/12.json"
-        },
-        {
-          "id": "13",
-          "title": "እማዬን አባዬን",
-          "lyrics_asset_file": "assets/lyrics/tadele/13.json"
-        },
-        {
-          "id": "14",
-          "title": "ሰቀሉህ",
-          "lyrics_asset_file": "assets/lyrics/tadele/14.json"
-        },
-        {
-          "id": "15",
-          "title": "ገዳመ ቆሮንጦስ",
-          "lyrics_asset_file": "assets/lyrics/tadele/15.json"
-        },
-        {
-          "id": "16",
-          "title": "ድንግል",
-          "lyrics_asset_file": "assets/lyrics/tadele/16.json"
-        },
-        {
-          "id": "17",
-          "title": "እንደ ክቡር ዳዊት",
-          "lyrics_asset_file": "assets/lyrics/tadele/17.json"
-        },
-        {
-          "id": "18",
-          "title": "በጌቴ ሴማኒ",
-          "lyrics_asset_file": "assets/lyrics/tadele/18.json"
-        },
-        {
-          "id": "19",
-          "title": "ሰው አፉ አላርፍ ብሎ",
-          "lyrics_asset_file": "assets/lyrics/tadele/19.json"
-        },
-        {
-          "id": "20",
-          "title": "ለኔ ጌታ ሆኜ",
-          "lyrics_asset_file": "assets/lyrics/tadele/20.json"
-        },
-        {
-          "id": "21",
-          "title": "እኔም ላንቺ ላልሆን",
-          "lyrics_asset_file": "assets/lyrics/tadele/21.json"
-        },
-        {
-          "id": "22",
-          "title": "እንዴት ነህ ዝዋይ",
-          "lyrics_asset_file": "assets/lyrics/tadele/22.json"
-        },
-        {
-          "id": "23",
-          "title": "ሲገፉኝ",
-          "lyrics_asset_file": "assets/lyrics/tadele/23.json"
-        },
-        {
-          "id": "24",
-          "title": "ሰአሊ ለነ ማርያም",
-          "lyrics_asset_file": "assets/lyrics/tadele/24.json"
-        },
-        {
-          "id": "25",
-          "title": "አንተ ያልከው ይሁን",
-          "lyrics_asset_file": "assets/lyrics/tadele/25.json"
-        },
-        {
-          "id": "26",
-          "title": "ያ ገበሬ",
-          "lyrics_asset_file": "assets/lyrics/tadele/26.json"
-        },
-        {
-          "id": "27",
-          "title": "ያገኘኝን አገኘሁት",
-          "lyrics_asset_file": "assets/lyrics/tadele/27.json"
-        },
-        {
-          "id": "28",
-          "title": "ይህ ያ ወራጅ ውኃ",
-          "lyrics_asset_file": "assets/lyrics/tadele/28.json"
-        },
-        {
-          "id": "29",
-          "title": "ድልድዩ አልከበደው",
-          "lyrics_asset_file": "assets/lyrics/tadele/29.json"
-        },
-        {
-          "id": "30",
-          "title": "ሰማሁኝ በዝና",
-          "lyrics_asset_file": "assets/lyrics/tadele/30.json"
-        },
-        {
-          "id": "31",
-          "title": "አምላኬ ነህ",
-          "lyrics_asset_file": "assets/lyrics/tadele/31.json"
-        },
-        {
-          "id": "32",
-          "title": "ያንተ ግን ይገርማል",
-          "lyrics_asset_file": "assets/lyrics/tadele/32.json"
-        },
-        {
-          "id": "33",
-          "title": "ቀዳማዊት ሔዋን",
-          "lyrics_asset_file": "assets/lyrics/tadele/33.json"
-        },
-        {
-          "id": "34",
-          "title": "በገዳዬ ምክር",
-          "lyrics_asset_file": "assets/lyrics/tadele/34.json"
-        },
-        {
-          "id": "35",
-          "title": "የእኛ ጌታ",
-          "lyrics_asset_file": "assets/lyrics/tadele/35.json"
-        },
-        {
-          "id": "36",
-          "title": "በዛ የብሶ",
-          "lyrics_asset_file": "assets/lyrics/tadele/36.json"
-        },
-        {
-          "id": "37",
-          "title": "ባሕር ብሻገርም",
-          "lyrics_asset_file": "assets/lyrics/tadele/37.json"
-        },
-        {
-          "id": "38",
-          "title": "ባሕር ብሻገርም 2",
-          "lyrics_asset_file": "assets/lyrics/tadele/38.json"
         }
       ]
     }

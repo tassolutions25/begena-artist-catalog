@@ -17,6 +17,10 @@ def normalize_amharic(text):
     text = re.sub(r'[\.\,\;\:\?\*\!]', ' ', text)
     return ' '.join(text.split()).strip()
 
+def match_normalize(text):
+    text = normalize_amharic(text)
+    return text.replace(' ', '')
+
 def is_tuning_numbers(text):
     text_strip = text.strip()
     if not text_strip: return False
@@ -35,7 +39,7 @@ def is_tuning_header(text):
 
 def clean_title(title):
     title = re.sub(r'\(.*?\)', '', title)
-    return normalize_amharic(title)
+    return match_normalize(title)
 
 def process_lyrics():
     print("Loading catalog...")
@@ -43,7 +47,7 @@ def process_lyrics():
         catalog = json.load(f)
 
     print("Loading document...")
-    doc = docx.Document('የበገና መዝሙር ግጥሞች.docx')
+    doc = docx.Document('የበገና መዝሙር ግጥሞች2.docx')
     paragraphs = doc.paragraphs
     print(f"Loaded {len(paragraphs)} paragraphs.")
 
@@ -57,7 +61,7 @@ def process_lyrics():
             catalog_songs.append({
                 'title': song['title'],
                 'clean_title': clean_title(song['title']),
-                'artist': normalize_amharic(artist['name']),
+                'artist': match_normalize(artist['name']),
                 'target_file': target_file
             })
 
@@ -66,10 +70,29 @@ def process_lyrics():
     for i, p in enumerate(paragraphs):
         text = p.text.strip()
         norm_text = normalize_amharic(text)
+        match_text = match_normalize(text)
+        
+        # Enhanced indent detection
+        li = p.paragraph_format.left_indent
+        fi = p.paragraph_format.first_line_indent
+        indent_pt = 0
+        if li: indent_pt += li.pt
+        if fi: indent_pt += fi.pt
+        
+        # Leading spaces check
+        leading_spaces = 0
+        for char in p.text:
+            if char == ' ': leading_spaces += 1
+            elif char == '\t': leading_spaces += 4
+            else: break
+            
         para_info.append({
-            'text': text,
+            'text': p.text,
+            'text_strip': text,
             'norm_text': norm_text,
+            'match_text': match_text,
             'is_tuning_header': is_tuning_header(text),
+            'indent_val': 24 if (indent_pt > 10 or leading_spaces >= 3) else 0,
             'len': len(text)
         })
 
@@ -84,12 +107,12 @@ def process_lyrics():
         best_score = -1
         
         for i, info in enumerate(para_info):
-            if info['len'] > 150 or not info['norm_text']: continue
+            if info['len'] > 200 or not info['match_text']: continue
             
             score = 0
-            if search_title == info['norm_text']:
+            if search_title == info['match_text']:
                 score += 150
-            elif search_title in info['norm_text']:
+            elif search_title in info['match_text']:
                 score += 80
             
             if score > 0:
@@ -99,13 +122,12 @@ def process_lyrics():
                         has_tuning = True
                         break
                 if has_tuning: score += 100
-                if artist_name in info['norm_text']: score += 50
+                if artist_name in info['match_text']: score += 50
                 
                 if score > best_score:
                     best_score = score
                     best_match = i
         
-        # Threshold 100
         if best_match != -1 and best_score >= 100:
             found_map[song['title']] = best_match
         else:
@@ -128,16 +150,19 @@ def process_lyrics():
         skip_mode = False
         
         for p_idx in range(start_idx + 1, end_idx):
-            text = paragraphs[p_idx].text
-            text_strip = text.strip()
+            info = para_info[p_idx]
+            text_strip = info['text_strip']
+            
             if not text_strip:
                 if song_lines and song_lines[-1]['text'] != '':
                     song_lines.append({'text': '', 'indent': 0})
                 skip_mode = False
                 continue
-            if is_tuning_header(text_strip):
+            
+            if info['is_tuning_header']:
                 skip_mode = True
                 continue
+            
             if skip_mode:
                 if is_tuning_numbers(text_strip): continue
                 else:
@@ -145,13 +170,7 @@ def process_lyrics():
                     if not re.sub(r'[ቅኝትበበገና\d\s\-\(\)\/xX+]', '', norm).strip(): continue
                     skip_mode = False
             
-            leading_spaces = 0
-            for char in text:
-                if char == ' ': leading_spaces += 1
-                elif char == '\t': leading_spaces += 4
-                else: break
-            indent = 24 if leading_spaces >= 3 else 0
-            song_lines.append({'text': text_strip, 'indent': indent})
+            song_lines.append({'text': text_strip, 'indent': info['indent_val']})
 
         final_paragraphs = []
         if song_lines:
@@ -177,10 +196,6 @@ def process_lyrics():
         os.makedirs(os.path.dirname(song_entry['target_file']), exist_ok=True)
         with open(song_entry['target_file'], 'w', encoding='utf-8') as f:
             json.dump(output, f, ensure_ascii=False, indent=2)
-
-    with open('missing_songs.log', 'w', encoding='utf-8') as f:
-        for song_str in missing_songs:
-            f.write(song_str + '\n')
 
 if __name__ == "__main__":
     process_lyrics()

@@ -1,6 +1,6 @@
 import docx
 
-doc = docx.Document('የበገና መዝሙር ግጥሞች.docx')
+doc = docx.Document('የበገና መዝሙር ግጥሞች2.docx')
 with open('scratch/peek_output.txt', 'w', encoding='utf-8') as f:
     for i, para in enumerate(doc.paragraphs[:500]):
         indent = para.paragraph_format.left_indent
